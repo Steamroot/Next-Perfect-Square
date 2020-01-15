@@ -1,0 +1,23 @@
+{
+  "name": "useless-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Perfect Square.js",
+  "scripts": {
+    "compile": "node-sass sass/main.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steamroot/Useless-Tools.git"
+  },
+  "author": "Samuel Vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steamroot/Useless-Tools/issues"
+  },
+  "homepage": "https://github.com/Steamroot/Useless-Tools#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
